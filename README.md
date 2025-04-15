@@ -40,8 +40,8 @@ Installation:
 git clone https://github.com/KhalidMustafaElenani/Optimization-Algorithms-Suite.git
 ```
 License:
-This project is licensed under the MIT License - see the LICENSE file for details.
+-  This project is licensed under the MIT License - see the LICENSE file for details.
 
 Contributing:
-Contributions are welcome! If you want to contribute, feel free to fork the repository, create a branch, and submit a pull request.
+-  Contributions are welcome! If you want to contribute, feel free to fork the repository, create a branch, and submit a pull request.
 
