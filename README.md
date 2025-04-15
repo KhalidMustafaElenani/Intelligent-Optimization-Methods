@@ -10,6 +10,10 @@
 ![Build Status](https://img.shields.io/badge/build-passing-brightgreen)
 ![Open_Issues](https://img.shields.io/badge/Issues%20-%200%20-%20orange?style=plastic)
 
+<p align="center">
+  <img src="Swarm_intelligence.png" width="500"/>
+</p>
+
 This repository contains implementations of several intelligent optimization algorithms, which are inspired by nature and social behaviors. 
 These methods are widely applied in optimization problems across various domains, including machine learning, artificial intelligence, and engineering.
 
@@ -32,3 +36,12 @@ Features:
 
 Installation:
 -  Clone this repository to your local machine:
+```bash
+git clone https://github.com/KhalidMustafaElenani/Optimization-Algorithms-Suite.git
+```
+License:
+This project is licensed under the MIT License - see the LICENSE file for details.
+
+Contributing:
+Contributions are welcome! If you want to contribute, feel free to fork the repository, create a branch, and submit a pull request.
+
